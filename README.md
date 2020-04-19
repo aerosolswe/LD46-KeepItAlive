@@ -2,7 +2,7 @@
 
 ## Earth Defense
 
-* [Play here](https://aerosolswe.github.io/Bunker-32/)
+* [Play here](https://aerosolswe.github.io/LD46-KeepItAlive/)
 
 ### General idea:
 Mini city simulator with aliens invading
