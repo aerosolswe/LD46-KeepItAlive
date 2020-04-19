@@ -1,5 +1,3 @@
-# 
- LD46 entry
 ## Ludum Dare 46 - KeepItAlive
 
 ## Earth Defense
