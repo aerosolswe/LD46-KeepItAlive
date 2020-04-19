@@ -1,0 +1,17 @@
+Todo
+
+Lerp building raize & raise >
+Lerp camera distance >
+Lerp world ground >
+
+Tune difficulty at level 10 and above >
+
+Add minor sound fx >
+
+Fix music thingy at start >
+
+Test game after final level >
+
+Build
+Upload
+Publish
