@@ -12,6 +12,6 @@ Fix music thingy at start >
 
 Test game after final level >
 
-Build
-Upload
-Publish
+Build >
+Upload >
+Publish >
